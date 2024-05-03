@@ -1,2 +1,2 @@
 # bookbot
-A simple student project
+A simple student project, my first git project!
